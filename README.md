@@ -3,7 +3,7 @@ My personal portfolio. In here you will find my contact info, links to my social
 
 **Link to project:** https://robdev.netlify.app/
 
-![alt tag](https://imgur.com/Gel0rFP)
+![alt tag](https://i.imgur.com/Gel0rFP.png/1200/650)
 
 ## How It's Made:
 
